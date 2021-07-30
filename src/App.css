@@ -9,7 +9,7 @@
   color: white;
   padding: 5px 10px;
   margin: 5px 0;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .navbar a:hover {

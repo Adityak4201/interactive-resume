@@ -3,8 +3,29 @@
 }
 
 .experience {
-    margin-right: 50px;
-    margin-top: 10px;
+    margin-left: 40px;
+    margin-top: 40px;
     text-align:right;
+    font-size: 32px;
+    color: blueviolet;
 }
 
+.experienceDetails {
+    margin-top: 25px;
+    margin-left: 50px;
+    color: #c2b8b8;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+#intern {
+    color:#a36060 ;
+}
+
+.detail {
+    margin-left: 20px;
+}
+
+.temp-details {
+    margin-left:27px;
+}
