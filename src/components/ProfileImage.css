@@ -1,0 +1,36 @@
+.profileImage {
+    width:200px;
+    height: auto;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+
+.intro {
+    display: flex;
+}
+
+.name-intro > h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #a36060;
+}
+
+.name-intro > h2 {
+    margin-top: 0;
+    color:coral;
+    font-weight: 400;
+}
+
+.aboutMe {
+    color: #c2b8b8;
+    padding-top: 5px;
+    line-height: 28px;
+}
+
+.icons {
+    margin-top:50px;
+}
+
+.padding-icons {
+    padding-right:10px;
+}
